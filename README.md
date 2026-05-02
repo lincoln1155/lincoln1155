@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hey! I'm Lincoln from Brasil<br><br>I'm passionate about technology, currently studying Technology in System Analysis and Development, diving into Full-Stack Development to expand my technical skills and enhance my ability to solve problems.</p>
+<p align="left">I'm a Developer, passionate about technology, currently studying Technology in System Analysis and Development, diving into Full-Stack Development to expand my technical skills and enhance my ability to solve problems.</p>
 
 ###
 
